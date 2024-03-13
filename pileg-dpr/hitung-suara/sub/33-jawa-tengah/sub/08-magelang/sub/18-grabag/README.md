@@ -1,0 +1,60 @@
+# Menu Wilayah
+
+## Link
+
+[BALEAGUNG](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2010-baleagung)
+ | 
+[BANARAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2009-banaran)
+ | 
+[BANJARSARI](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2015-banjarsari)
+ | 
+[BANYUSARI](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2003-banyusari)
+ | 
+[CITROSONO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2006-citrosono)
+ | 
+[COKRO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2021-cokro)
+ | 
+[GIRIWETAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2026-giriwetan)
+ | 
+[GRABAG](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2001-grabag)
+ | 
+[KALIKUTO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2012-kalikuto)
+ | 
+[KALIPUCANG](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2013-kalipucang)
+ | 
+[KARTOHARJO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2004-kartoharjo)
+ | 
+[KETAWANG](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2019-ketawang)
+ | 
+[KLEGEN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2011-klegen)
+ | 
+[KLETERAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2007-kleteran)
+ | 
+[LEBAK](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2028-lebak)
+ | 
+[LOSARI](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2022-losari)
+ | 
+[NGASINAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2008-ngasinan)
+ | 
+[NGRANCAH](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2023-ngrancah)
+ | 
+[PESIDI](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2025-pesidi)
+ | 
+[PUCUNGSARI](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2027-pucungsari)
+ | 
+[SALAM](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2020-salam)
+ | 
+[SAMBUNGREJO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2016-sambungrejo)
+ | 
+[SEWORAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2014-seworan)
+ | 
+[SIDOGEDE](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2005-sidogede)
+ | 
+[SUGIHMAS](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2024-sugihmas)
+ | 
+[SUMURARUM](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2002-sumurarum)
+ | 
+[TIRTO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2018-tirto)
+ | 
+[TLOGOREJO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/08-magelang/sub/18-grabag/sub/2017-tlogorejo)
+

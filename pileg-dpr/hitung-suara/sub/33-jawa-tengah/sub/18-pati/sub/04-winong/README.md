@@ -1,0 +1,64 @@
+# Menu Wilayah
+
+## Link
+
+[BLINGIJATI](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2015-blingijati)
+ | 
+[BRINGINWARENG](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2022-bringinwareng)
+ | 
+[BUMIHARJO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2020-bumiharjo)
+ | 
+[DANYANGMULYO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2012-danyangmulyo)
+ | 
+[DEGAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2024-degan)
+ | 
+[GODO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2003-godo)
+ | 
+[GUNUNGPANTI](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2002-gunungpanti)
+ | 
+[GUYANGAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2006-guyangan)
+ | 
+[KARANGKONANG](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2027-karangkonang)
+ | 
+[KARANGSUMBER](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2005-karangsumber)
+ | 
+[KEBOLAMPANG](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2008-kebolampang)
+ | 
+[KEBOWAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2017-kebowan)
+ | 
+[KLECOREGONANG](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2019-klecoregonang)
+ | 
+[KROPAK](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2004-kropak)
+ | 
+[KUDUR](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2013-kudur)
+ | 
+[MINTORAHAYU](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2016-mintorahayu)
+ | 
+[PADANGAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2014-padangan)
+ | 
+[PAGENDISAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2010-pagendisan)
+ | 
+[PEKALONGAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2011-pekalongan)
+ | 
+[POHGADING](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2001-pohgading)
+ | 
+[PULOREJO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2026-pulorejo)
+ | 
+[SARIMULYO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2030-sarimulyo)
+ | 
+[SERUTSADANG](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2025-serutsadang)
+ | 
+[SUGIHAN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2007-sugihan)
+ | 
+[SUMBERMULYO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2023-sumbermulyo)
+ | 
+[TANGGEL](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2028-tanggel)
+ | 
+[TAWANGREJO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2021-tawangrejo)
+ | 
+[TLOGOREJO](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2009-tlogorejo)
+ | 
+[WINONG](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2018-winong)
+ | 
+[WIRUN](https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/tree/main/pileg-dpr/hitung-suara/sub/33-jawa-tengah/sub/18-pati/sub/04-winong/sub/2029-wirun)
+

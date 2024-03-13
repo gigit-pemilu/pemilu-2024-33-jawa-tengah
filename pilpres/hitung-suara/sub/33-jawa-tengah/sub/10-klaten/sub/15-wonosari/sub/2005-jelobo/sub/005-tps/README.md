@@ -1,0 +1,42 @@
+# Hasil
+
+## Grafik
+
+```mermaid
+xychart-beta
+    title "Perolehan Suara TPS"
+    x-axis []
+    y-axis "Suara" 0 --> 0
+    bar []
+```
+
+```mermaid
+%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
+pie showData
+```
+
+## Tabel
+
+| No. | Nama Paslon | Suara | Suara (raw) | Persentase |
+|:--- |:----------- | -----:| -----------:| ----------:|
+
+
+[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/10-klaten/sub/15-wonosari/sub/2005-jelobo/sub/005-tps/sub/paslon-1.txt
+[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/10-klaten/sub/15-wonosari/sub/2005-jelobo/sub/005-tps/sub/paslon-2.txt
+[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/10-klaten/sub/15-wonosari/sub/2005-jelobo/sub/005-tps/sub/paslon-3.txt
+
+## Foto C Plano
+
+https://sirekap-obj-formc.kpu.go.id/b93a/pemilu/ppwp/33/10/15/20/05/3310152005005-20240216-155152--c2c3d710-b2cf-4466-b5bd-d36039f0eaec.jpg
+
+https://sirekap-obj-formc.kpu.go.id/b93a/pemilu/ppwp/33/10/15/20/05/3310152005005-20240216-160314--201d73aa-1c1a-493d-92d3-f4c7fb115d4f.jpg
+
+
+## Metadata
+
+| Key        | Value               |
+| ---------- | ------------------- |
+| Time Stamp | 2024-02-16 16:25:10 |
+
+
+

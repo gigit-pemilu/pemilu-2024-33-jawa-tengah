@@ -18,7 +18,7 @@ https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/330710201100
 
 https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240221-110731--63b82646-edc4-49c7-87b3-b209675d2f91.jpg
 
-https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240215-113559--d3d3fac1-3c71-42a8-a2e9-b2c1380a9a96.jpg
+https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240314-145049--b2203df1-70e2-44ab-9604-e695dc15e8ac.jpg
 
 https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240215-113647--39f40f5a-945d-4d85-88fb-ccab73ecf340.jpg
 
@@ -26,15 +26,15 @@ https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/330710201100
 
 https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240215-113811--1be9439f-457d-46b0-b2a6-a6813128354a.jpg
 
-https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240215-113904--286f5a20-5840-4f2c-b5f9-c42e36bb9e9b.jpg
+https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240314-145105--6ea8e196-10a9-4d00-9255-c2116e028de9.jpg
 
 https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240215-113950--2d857dc7-d287-49d8-ad8d-fff2b60026dc.jpg
 
-https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240215-114037--a8f362a6-4fc8-41f6-a257-a077816ce1f3.jpg
+https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240314-145116--e9fb15b3-b667-4cf4-8795-d37f6c45b2a1.jpg
 
 https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240215-114120--112666fa-160e-4502-bc4f-d089dcf2f14a.jpg
 
-https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240215-114213--46fa38fe-833d-4bfd-af47-a8306c29cdf1.jpg
+https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240314-145126--b8b08dba-4bcb-4b6a-a928-c6a0d1891c58.jpg
 
 https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/3307102011003-20240215-114253--349a7fe9-30e3-42d7-93a5-300e97215f25.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/2df1/pemilu/pdpr/33/07/10/20/11/330710201100
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-22 12:03:34 |
+| Time Stamp | 2024-03-14 15:04:16 |
 | Kode Dapil | 3306                |
 
 

@@ -11,7 +11,7 @@ https://sirekap-obj-formc.kpu.go.id/198d/pemilu/pdpr/33/21/09/20/03/332109200300
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-13 09:03:48 |
+| Time Stamp | 2024-03-15 13:33:47 |
 | Kode Dapil | 3302                |
 
 

@@ -18,7 +18,7 @@ https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/331609200500
 
 https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240215-004126--ebc87bb0-99fa-4d50-a54f-e81e7293aaa2.jpg
 
-https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240215-004256--fa740cae-64e8-4fae-a9dd-b050ee445497.jpg
+https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240315-132443--dd2b6ca6-0c66-412c-a533-b9dcf649c129.jpg
 
 https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240214-224413--9ef2b9e6-c6bf-4666-8750-2df097ed7dd9.jpg
 
@@ -30,7 +30,7 @@ https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/331609200500
 
 https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240214-225236--463a9b9b-3c99-4af9-b957-596fcb837d29.jpg
 
-https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240215-004933--e621418d-7ac1-4c7d-a08d-10db851ddcb1.jpg
+https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240315-132530--652e9a4d-caa0-4150-bed1-79e0fe2cf8d5.jpg
 
 https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240214-225437--51a6ae22-7768-443f-b2d7-5414b1c2aed0.jpg
 
@@ -40,14 +40,14 @@ https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/331609200500
 
 https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240214-233001--3959284d-a737-47df-8440-e3c4bc452a83.jpg
 
-https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240215-005624--60aa3b19-da39-4b19-91ee-a3ea01be072b.jpg
+https://sirekap-obj-formc.kpu.go.id/2d75/pemilu/pdpr/33/16/09/20/05/3316092005003-20240315-132605--991f24c4-962c-4429-924e-9836768820df.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-15 13:33:47 |
 | Kode Dapil | 3303                |
 
 

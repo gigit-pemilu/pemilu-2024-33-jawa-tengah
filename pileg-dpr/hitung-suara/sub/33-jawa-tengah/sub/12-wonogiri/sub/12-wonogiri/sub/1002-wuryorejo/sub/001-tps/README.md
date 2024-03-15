@@ -9,7 +9,7 @@ https://sirekap-obj-formc.kpu.go.id/d4da/pemilu/pdpr/33/12/12/10/02/331212100200
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 16:02:42 |
+| Time Stamp | 2024-03-15 14:33:47 |
 | Kode Dapil | 3304                |
 
 

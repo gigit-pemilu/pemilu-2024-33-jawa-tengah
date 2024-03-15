@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 68
-    bar [23, 66, 68]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 23
-    "2" : 66
-    "3" : 68
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 23    | [23][p-1]   | 14,65      |
-| 2   | PRABOWO GIBRAN | 66    | [66][p-2]   | 42,04      |
-| 3   | GANJAR MAHFUD  | 68    | [68][p-3]   | 43,31      |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/74-kota-semarang/sub/09-gajahmungkur/sub/1007-petompon/sub/005-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/74-kota-semarang/sub/09-gajahmungkur/sub/1007-petompon/sub/005-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/74-kota-semarang/sub/09-gajahmungkur/sub/1007-petompon/sub/005-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/eb0f/pemilu/ppwp/33/74/09/10/07/3374091007005-20240214-155840--12e28dcb-a7c6-4277-ae8b-155278b30828.jpg
+https://sirekap-obj-formc.kpu.go.id/eb0f/pemilu/ppwp/33/74/09/10/07/3374091007005-20240314-135615--03ca9fa5-b787-4291-b5c1-2c7aa272a94a.jpg
 
-https://sirekap-obj-formc.kpu.go.id/eb0f/pemilu/ppwp/33/74/09/10/07/3374091007005-20240215-023427--e9720dbd-e2b2-4a07-a008-b0a5e63c738e.jpg
+https://sirekap-obj-formc.kpu.go.id/eb0f/pemilu/ppwp/33/74/09/10/07/3374091007005-20240314-135657--6dfffae8-e707-480e-9e6d-d23b2a384bd9.jpg
 
-https://sirekap-obj-formc.kpu.go.id/eb0f/pemilu/ppwp/33/74/09/10/07/3374091007005-20240215-010140--67460744-d324-484c-afb3-02848d19d09b.jpg
+https://sirekap-obj-formc.kpu.go.id/eb0f/pemilu/ppwp/33/74/09/10/07/3374091007005-20240314-135836--b2be8ed0-6b53-44e0-906c-06c80dc7c260.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-24 22:31:28 |
+| Time Stamp | 2024-03-14 14:30:00 |
 
 
 ## DATA PEMILIH TETAP

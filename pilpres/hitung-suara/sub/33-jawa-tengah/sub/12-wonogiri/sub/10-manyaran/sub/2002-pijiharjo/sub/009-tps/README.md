@@ -1,48 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 90
-    bar [2, 9, 90]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 2
-    "2" : 9
-    "3" : 90
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 2     | [2][p-1]    | 1,98       |
-| 2   | PRABOWO GIBRAN | 9     | [9][p-2]    | 8,91       |
-| 3   | GANJAR MAHFUD  | 90    | [90][p-3]   | 89,11      |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/12-wonogiri/sub/10-manyaran/sub/2002-pijiharjo/sub/009-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/12-wonogiri/sub/10-manyaran/sub/2002-pijiharjo/sub/009-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/12-wonogiri/sub/10-manyaran/sub/2002-pijiharjo/sub/009-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/f3a5/pemilu/ppwp/33/12/10/20/02/3312102002009-20240214-224345--5e454ec0-a946-409c-936a-44541b791b88.jpg
+https://sirekap-obj-formc.kpu.go.id/f3a5/pemilu/ppwp/33/12/10/20/02/3312102002009-20240313-150843--c26abb6a-e5aa-4e28-9d3d-530dc3e6522a.jpg
 
-https://sirekap-obj-formc.kpu.go.id/f3a5/pemilu/ppwp/33/12/10/20/02/3312102002009-20240216-182350--904cdb74-29f9-45cc-b4b6-c0e84a1e865b.jpg
+https://sirekap-obj-formc.kpu.go.id/f3a5/pemilu/ppwp/33/12/10/20/02/3312102002009-20240313-151011--004457cc-f02c-479a-b24e-b0176f30133c.jpg
+
+https://sirekap-obj-formc.kpu.go.id/f3a5/pemilu/ppwp/33/12/10/20/02/3312102002009-20240313-151152--818f9fab-f6b9-48f3-ae4a-7cf68fc6e132.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-25 13:00:00 |
+| Time Stamp | 2024-03-13 15:30:00 |
 
 
 

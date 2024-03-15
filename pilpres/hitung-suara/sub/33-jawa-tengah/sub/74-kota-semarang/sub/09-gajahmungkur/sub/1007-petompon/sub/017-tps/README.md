@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 125
-    bar [39, 125, 83]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 39
-    "2" : 125
-    "3" : 83
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 39    | [39][p-1]   | 15,79      |
-| 2   | PRABOWO GIBRAN | 125   | [125][p-2]  | 50,61      |
-| 3   | GANJAR MAHFUD  | 83    | [83][p-3]   | 33,60      |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/74-kota-semarang/sub/09-gajahmungkur/sub/1007-petompon/sub/017-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/74-kota-semarang/sub/09-gajahmungkur/sub/1007-petompon/sub/017-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/74-kota-semarang/sub/09-gajahmungkur/sub/1007-petompon/sub/017-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/c257/pemilu/ppwp/33/74/09/10/07/3374091007017-20240215-031817--5a8a70dd-52b1-48f7-b578-c2600f0cb51a.jpg
+https://sirekap-obj-formc.kpu.go.id/c257/pemilu/ppwp/33/74/09/10/07/3374091007017-20240314-153507--8139a6da-ef8e-40c1-8551-0d405de7f2e4.jpg
 
-https://sirekap-obj-formc.kpu.go.id/c257/pemilu/ppwp/33/74/09/10/07/3374091007017-20240215-031832--b179a883-da2b-47cf-94da-0b78b706eeda.jpg
+https://sirekap-obj-formc.kpu.go.id/c257/pemilu/ppwp/33/74/09/10/07/3374091007017-20240314-153554--78e45eff-e613-41b3-b55d-082c00dcbc33.jpg
 
-https://sirekap-obj-formc.kpu.go.id/c257/pemilu/ppwp/33/74/09/10/07/3374091007017-20240215-031902--f1ae455c-0e51-4858-a027-c2d16b6db108.jpg
+https://sirekap-obj-formc.kpu.go.id/c257/pemilu/ppwp/33/74/09/10/07/3374091007017-20240314-153642--8990c4ea-2257-42a5-9dbf-faa147854a15.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-15 15:00:29 |
+| Time Stamp | 2024-03-14 16:00:00 |
 
 
 ## DATA PEMILIH TETAP

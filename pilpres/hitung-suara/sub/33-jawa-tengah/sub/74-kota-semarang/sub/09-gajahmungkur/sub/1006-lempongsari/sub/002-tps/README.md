@@ -1,50 +1,51 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 95
-    bar [25, 95, 82]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 25
-    "2" : 95
-    "3" : 82
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 25    | [25][p-1]   | 12,38      |
-| 2   | PRABOWO GIBRAN | 95    | [95][p-2]   | 47,03      |
-| 3   | GANJAR MAHFUD  | 82    | [82][p-3]   | 40,59      |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/74-kota-semarang/sub/09-gajahmungkur/sub/1006-lempongsari/sub/002-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/74-kota-semarang/sub/09-gajahmungkur/sub/1006-lempongsari/sub/002-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/74-kota-semarang/sub/09-gajahmungkur/sub/1006-lempongsari/sub/002-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/1230/pemilu/ppwp/33/74/09/10/06/3374091006002-20240214-195050--de5dde47-7ddf-4043-b918-a6395f98ff92.jpg
+https://sirekap-obj-formc.kpu.go.id/1230/pemilu/ppwp/33/74/09/10/06/3374091006002-20240314-202830--42d2f12a-1f2f-4fc1-a72a-e4d4c74b21c2.jpg
 
-https://sirekap-obj-formc.kpu.go.id/1230/pemilu/ppwp/33/74/09/10/06/3374091006002-20240214-195217--60c00f00-cd5d-47d2-adbb-2da4c2fd72ae.jpg
+https://sirekap-obj-formc.kpu.go.id/1230/pemilu/ppwp/33/74/09/10/06/3374091006002-20240314-202920--c089db6f-840f-406f-bb51-f3638a647ec5.jpg
 
-https://sirekap-obj-formc.kpu.go.id/1230/pemilu/ppwp/33/74/09/10/06/3374091006002-20240214-195311--1d63f14e-34b5-4b6b-90ed-1598965173de.jpg
+https://sirekap-obj-formc.kpu.go.id/1230/pemilu/ppwp/33/74/09/10/06/3374091006002-20240314-203009--750298f5-d5fe-43db-acd2-4d7ba30b4461.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-16 14:30:33 |
+| Time Stamp | 2024-03-14 21:00:00 |
 
+
+## DATA PEMILIH TETAP
+
+Jumlah pemilih dalam DPT: **244**.
+ * L: **119**.
+ * P: **125**.
+
+## DATA PENGGUNA HAK PILIH
+
+Jumlah pengguna hak pilih dalam DPT: **193**.
+ * L: **95**.
+ * P: **98**.
+
+Jumlah pengguna hak pilih dalam DPTb: **6**.
+ * L: **1**.
+ * P: **5**.
+
+Jumlah pengguna hak pilih dalam DPK: **7**.
+ * L: **5**.
+ * P: **2**.
+
+Jumlah pengguna hak pilih: **206**.
+ * L: **101**.
+ * P: **105**.
+
+## JUMLAH SUARA SAH DAN TIDAK SAH
+
+JUMLAH SELURUH SUARA SAH: **202**.
+
+JUMLAH SUARA TIDAK SAH: **4**.
+
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **206**.
 
 

@@ -36,7 +36,7 @@ https://sirekap-obj-formc.kpu.go.id/ca8e/pemilu/pdpr/33/14/11/20/01/331411200100
 
 https://sirekap-obj-formc.kpu.go.id/ca8e/pemilu/pdpr/33/14/11/20/01/3314112001003-20240317-041122--1dc5ad05-c9e4-4935-9f43-05bde31b8059.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ca8e/pemilu/pdpr/33/14/11/20/01/3314112001003-20240317-041209--909e9e61-2ce2-4699-921b-0e6497bf85b6.jpg
+https://sirekap-obj-formc.kpu.go.id/ca8e/pemilu/pdpr/33/14/11/20/01/3314112001003-20240317-190110--308c7679-0862-42a6-b75f-7fb747f8f640.jpg
 
 https://sirekap-obj-formc.kpu.go.id/ca8e/pemilu/pdpr/33/14/11/20/01/3314112001003-20240317-041227--c4cdbb60-8120-4c29-a770-70f7d6fe5c4c.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/ca8e/pemilu/pdpr/33/14/11/20/01/331411200100
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-17 04:33:46 |
+| Time Stamp | 2024-03-17 19:03:46 |
 | Kode Dapil | 3304                |
 
 

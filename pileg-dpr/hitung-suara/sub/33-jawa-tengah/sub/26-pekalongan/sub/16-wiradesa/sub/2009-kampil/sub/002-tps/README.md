@@ -2,25 +2,25 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-235333--ea12a74c-8249-420c-ba51-1f2028c410d1.jpg
+https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240317-134849--8e36dd64-949d-45b9-a9c9-04bc76d31b5c.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-214309--e60bbe85-700e-4458-9df1-c40f6696eb82.jpg
+https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240317-135819--cbce7a8f-0b91-499e-afa0-88d12d69e46d.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-215140--220a352f-4a2a-4746-a4ad-e7463930a7e3.jpg
+https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240317-140521--8b0208cb-b446-4c8e-b151-c721253a867b.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-215841--a672cc7e-4a11-4f4f-98fb-01fcd0e86dd2.jpg
+https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240317-141101--0a668006-651f-4de8-933b-e7c518b5a706.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-221005--0e86ab16-d510-43bd-afbb-15c4fdc84824.jpg
+https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240317-141947--679a8898-a907-4e86-9207-81b830fd1ce0.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-221953--2dd21eae-4325-4d08-a013-c24e293a7205.jpg
+https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240317-142647--6278f240-4f6b-4c7d-9cf5-df8429aeb62b.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-222653--07c1e47b-a62c-494f-a276-96bedd620e5a.jpg
+https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240317-142843--bf45d943-06be-430b-b449-f64eab2fc893.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-223310--bcb7c53e-fac2-46cb-a6ff-a0dcefb00356.jpg
+https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240317-143425--c2acd7c1-68b5-4b05-a3ed-2bbd8865eb5f.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-223826--bc72490c-98c7-42d4-8688-877ec533d2e6.jpg
+https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240317-144133--6d397a93-9074-4dd7-a233-77f2a8f0cf2a.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-224434--bdc6c035-4e82-4095-b940-3ae80e66c10c.jpg
+https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240317-144344--6f51aa58-9cd9-4880-9027-b06290cac4af.jpg
 
 https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/3326162009002-20240316-225117--754a29f1-9ff5-4714-a516-4ade552d012b.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/ba93/pemilu/pdpr/33/26/16/20/09/332616200900
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-17 00:03:47 |
+| Time Stamp | 2024-03-17 15:03:46 |
 | Kode Dapil | 3310                |
 
 

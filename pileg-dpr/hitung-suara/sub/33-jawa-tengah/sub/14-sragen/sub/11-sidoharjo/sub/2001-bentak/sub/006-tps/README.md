@@ -10,7 +10,7 @@ https://sirekap-obj-formc.kpu.go.id/7c98/pemilu/pdpr/33/14/11/20/01/331411200100
 
 https://sirekap-obj-formc.kpu.go.id/7c98/pemilu/pdpr/33/14/11/20/01/3314112001006-20240317-082224--5f3ff6b0-26f4-46bb-a2c0-b16b141fab8f.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7c98/pemilu/pdpr/33/14/11/20/01/3314112001006-20240317-082412--543664ac-3625-496b-ac57-5e379297f958.jpg
+https://sirekap-obj-formc.kpu.go.id/7c98/pemilu/pdpr/33/14/11/20/01/3314112001006-20240317-190553--1511737b-5c3c-409c-b7f0-0533a8f29f28.jpg
 
 https://sirekap-obj-formc.kpu.go.id/7c98/pemilu/pdpr/33/14/11/20/01/3314112001006-20240317-082427--7b6a4067-b9c3-450f-ac5a-07cc6b86235e.jpg
 
@@ -40,12 +40,14 @@ https://sirekap-obj-formc.kpu.go.id/7c98/pemilu/pdpr/33/14/11/20/01/331411200100
 
 https://sirekap-obj-formc.kpu.go.id/7c98/pemilu/pdpr/33/14/11/20/01/3314112001006-20240317-090043--381fbe05-afcc-472d-9af9-cad8ca7ed0a3.jpg
 
+https://sirekap-obj-formc.kpu.go.id/7c98/pemilu/pdpr/33/14/11/20/01/3314112001006-20240317-190345--7d90bf99-38c0-4995-ba86-3d68910b4964.jpg
+
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-17 09:03:47 |
+| Time Stamp | 2024-03-17 19:33:46 |
 | Kode Dapil | 3304                |
 
 

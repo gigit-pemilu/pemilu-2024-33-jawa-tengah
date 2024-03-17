@@ -40,14 +40,14 @@ https://sirekap-obj-formc.kpu.go.id/8678/pemilu/pdpr/33/14/08/20/05/331408200500
 
 https://sirekap-obj-formc.kpu.go.id/8678/pemilu/pdpr/33/14/08/20/05/3314082005009-20240214-220910--3bce86c1-bc16-4fa9-ac9f-3452c342b0c0.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8678/pemilu/pdpr/33/14/08/20/05/3314082005009-20240214-221134--ddb3c2d7-c8e6-4697-a398-5ddef03c9bf6.jpg
+https://sirekap-obj-formc.kpu.go.id/8678/pemilu/pdpr/33/14/08/20/05/3314082005009-20240317-211520--83d540b0-e05e-4c1b-b3f1-ba1d64795499.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-19 06:21:02 |
+| Time Stamp | 2024-03-17 21:33:48 |
 | Kode Dapil | 3304                |
 
 

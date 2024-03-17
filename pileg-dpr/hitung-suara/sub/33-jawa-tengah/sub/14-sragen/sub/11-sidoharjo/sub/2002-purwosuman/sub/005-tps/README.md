@@ -6,7 +6,7 @@ https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/331411200200
 
 https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240215-014144--8b794593-e835-4efd-84e6-143ef585f03f.jpg
 
-https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240215-014138--27a0fda5-af7f-40d9-86df-da80cbb0e93a.jpg
+https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240315-224646--f4afaf7b-e7f7-44a6-94bd-5c0d73c322c2.jpg
 
 https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240215-014232--dab8b735-fc2b-4b55-b1c0-59e66ac48997.jpg
 
@@ -20,7 +20,7 @@ https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/331411200200
 
 https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240215-014450--02e9e67b-d70d-44d7-a87a-b9229b4a4749.jpg
 
-https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240215-014553--03f09626-e00d-47a6-8b75-a8d8cd9d56f2.jpg
+https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240315-224659--afc9d9fe-2120-4649-a76a-30af8f41efa2.jpg
 
 https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240215-014644--6bee8a10-6ea8-46f0-93f7-ee62af359f8d.jpg
 
@@ -38,16 +38,16 @@ https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/331411200200
 
 https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240215-015008--8ac6afc5-cf35-49c2-b7ff-67311b8d84db.jpg
 
-https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240215-015122--5cac7105-923d-4685-87a3-f738630fd1f6.jpg
+https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240315-224711--c1b50fc5-db82-4fe8-816e-ed744e7877c2.jpg
 
-https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240215-015158--256169e4-5e92-45d6-9279-7cdab8e0003d.jpg
+https://sirekap-obj-formc.kpu.go.id/9f65/pemilu/pdpr/33/14/11/20/02/3314112002005-20240315-224624--a29fe1a5-ceb6-4671-91a1-bf513ad275a6.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-15 23:04:02 |
 | Kode Dapil | 3304                |
 
 

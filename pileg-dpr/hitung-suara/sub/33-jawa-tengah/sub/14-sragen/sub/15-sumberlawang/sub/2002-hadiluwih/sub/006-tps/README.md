@@ -10,7 +10,7 @@ https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/331415200200
 
 https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/3314152002006-20240214-211232--28db643d-b5c0-4c45-bd90-cd60bbd3f499.jpg
 
-https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/3314152002006-20240214-211340--8e286306-90e1-4ef4-ab91-4f5dd8a4e031.jpg
+https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/3314152002006-20240315-170142--b55988af-806b-41bf-a778-04b6bf777c7d.jpg
 
 https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/3314152002006-20240214-211430--1673c778-bba3-4630-bbb1-667a39832295.jpg
 
@@ -36,7 +36,7 @@ https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/331415200200
 
 https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/3314152002006-20240214-212502--39664257-e757-4cdf-ad46-fbd91acc7fc6.jpg
 
-https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/3314152002006-20240214-225358--f1975a85-4c9c-408f-8371-e5fdb78f3460.jpg
+https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/3314152002006-20240315-170155--4fff7fd2-cc16-4833-9088-f972abfb2714.jpg
 
 https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/3314152002006-20240214-212828--a6f04ae4-3e40-42bf-95a3-df1f4184ded8.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/30e4/pemilu/pdpr/33/14/15/20/02/331415200200
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-15 17:03:47 |
 | Kode Dapil | 3304                |
 
 

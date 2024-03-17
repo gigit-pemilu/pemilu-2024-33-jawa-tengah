@@ -24,30 +24,30 @@ https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/331412201501
 
 https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240215-001927--ba3804fb-0e5e-4671-8b22-6844ae222775.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240215-002007--a5e4e37f-7291-41ee-8396-b662b8afbb4c.jpg
+https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240316-134921--8190dbd6-b722-4e8f-aca6-790ca2fcb6e0.jpg
 
 https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240215-002029--cc08234a-35f4-4e27-a8fb-c4ef1a40e4f5.jpg
 
 https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240215-002052--2487c9a9-300d-4c52-96a9-db33983bd0fb.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240215-002113--8eff89bf-7d70-471e-a755-b18b9df12a36.jpg
+https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240316-134933--19b14756-c743-480c-8e29-caab3d3a0561.jpg
 
 https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240215-002140--1aba5358-5431-42c5-804c-d7d9ae5d4639.jpg
 
 https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240215-002202--62c6e677-d9f4-4c2f-a58d-3ba631ce1572.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240215-002236--439216e7-3bf4-426f-afb4-a36c463911f5.jpg
+https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240316-134943--ccfd6807-c737-4d74-9060-f59acf1232a4.jpg
 
 https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240215-002305--4d48a37e-0e08-4336-ad0f-0acdcf349ff3.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240215-002331--a19afbe9-8c58-49d6-83a7-678b92e36596.jpg
+https://sirekap-obj-formc.kpu.go.id/ba23/pemilu/pdpr/33/14/12/20/15/3314122015012-20240316-134956--f3b7b499-9b90-4df9-bc96-45ff8cb67f33.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-16 14:03:47 |
 | Kode Dapil | 3304                |
 
 

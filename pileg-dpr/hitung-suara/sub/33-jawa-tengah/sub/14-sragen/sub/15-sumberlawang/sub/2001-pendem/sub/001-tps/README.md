@@ -2,9 +2,9 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240214-231103--5741c572-1dac-4512-8dd9-1dc665a902fa.jpg
+https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240315-152104--d8b5a82e-a9a9-40e4-9861-71c6837ade94.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240214-234101--def8ce84-8c89-495e-a18b-c821d7607f5d.jpg
+https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240315-152119--2d749871-548f-4ae3-b957-8ecb1e454571.jpg
 
 https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240214-234248--213987af-acaf-42e2-a284-20b9dc34a13d.jpg
 
@@ -34,20 +34,20 @@ https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/331415200100
 
 https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240215-000252--71800877-b2a2-4d8c-a1a2-d8aa75a61965.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240215-000647--9690222f-e32b-4d92-9449-2c1e4b790c24.jpg
+https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240315-152127--f3959435-fd85-4a74-8152-7c5b4e8f0d88.jpg
 
 https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240215-000800--86e1a213-0c28-4358-8a14-d8b023e4c3f5.jpg
 
 https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240215-000928--72e79e5c-4b52-4809-be72-e7b693facb4f.jpg
 
-https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240215-001040--323c4bdd-577f-4e57-94ab-2371c6e2cb1a.jpg
+https://sirekap-obj-formc.kpu.go.id/7a30/pemilu/pdpr/33/14/15/20/01/3314152001001-20240315-152145--ec88287a-8951-40ba-a8b6-5f1a3c2915da.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-15 15:33:47 |
 | Kode Dapil | 3304                |
 
 

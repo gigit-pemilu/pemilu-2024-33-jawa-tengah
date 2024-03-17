@@ -37,14 +37,14 @@ https://sirekap-obj-formc.kpu.go.id/cece/pemilu/ppwp/33/14/09/10/09/331409100900
 
 https://sirekap-obj-formc.kpu.go.id/cece/pemilu/ppwp/33/14/09/10/09/3314091009008-20240214-141414--85b95f9e-ef77-4f61-93f0-376cd6d46085.jpg
 
-https://sirekap-obj-formc.kpu.go.id/cece/pemilu/ppwp/33/14/09/10/09/3314091009008-20240214-141449--2491d3a2-2d5a-461b-b65e-02fb4ae380df.jpg
+https://sirekap-obj-formc.kpu.go.id/cece/pemilu/ppwp/33/14/09/10/09/3314091009008-20240317-220117--ebb51a06-eed5-4c66-96f6-80aaae43ee96.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-16 10:30:29 |
+| Time Stamp | 2024-03-17 22:30:00 |
 
 
 

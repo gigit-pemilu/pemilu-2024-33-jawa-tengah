@@ -33,7 +33,7 @@ pie showData
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/a248/pemilu/ppwp/33/26/10/20/15/3326102015013-20240219-201344--5eee2958-8e17-4974-b93d-8df69140bec7.jpg
+https://sirekap-obj-formc.kpu.go.id/a248/pemilu/ppwp/33/26/10/20/15/3326102015013-20240316-183045--f7e52519-dce9-4c94-b8e3-4eb58ce43288.jpg
 
 https://sirekap-obj-formc.kpu.go.id/a248/pemilu/ppwp/33/26/10/20/15/3326102015013-20240219-201902--83ca1b75-98ad-4314-9c7e-b7814578b039.jpg
 
@@ -44,39 +44,7 @@ https://sirekap-obj-formc.kpu.go.id/a248/pemilu/ppwp/33/26/10/20/15/332610201501
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-20 11:00:00 |
+| Time Stamp | 2024-03-16 19:00:00 |
 
-
-## DATA PEMILIH TETAP
-
-Jumlah pemilih dalam DPT: **227**.
- * L: **112**.
- * P: **115**.
-
-## DATA PENGGUNA HAK PILIH
-
-Jumlah pengguna hak pilih dalam DPT: **161**.
- * L: **63**.
- * P: **98**.
-
-Jumlah pengguna hak pilih dalam DPTb: **0**.
- * L: **0**.
- * P: **0**.
-
-Jumlah pengguna hak pilih dalam DPK: **0**.
- * L: **0**.
- * P: **0**.
-
-Jumlah pengguna hak pilih: **161**.
- * L: **63**.
- * P: **98**.
-
-## JUMLAH SUARA SAH DAN TIDAK SAH
-
-JUMLAH SELURUH SUARA SAH: **153**.
-
-JUMLAH SUARA TIDAK SAH: **8**.
-
-JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **161**.
 
 

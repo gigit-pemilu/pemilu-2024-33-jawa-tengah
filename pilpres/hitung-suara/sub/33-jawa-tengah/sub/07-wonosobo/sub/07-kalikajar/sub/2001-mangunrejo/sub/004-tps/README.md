@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 133
-    bar [20, 133, 53]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 20
-    "2" : 133
-    "3" : 53
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 20    | [20][p-1]   | 9,71       |
-| 2   | PRABOWO GIBRAN | 133   | [133][p-2]  | 64,56      |
-| 3   | GANJAR MAHFUD  | 53    | [53][p-3]   | 25,73      |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/07-wonosobo/sub/07-kalikajar/sub/2001-mangunrejo/sub/004-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/07-wonosobo/sub/07-kalikajar/sub/2001-mangunrejo/sub/004-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/07-wonosobo/sub/07-kalikajar/sub/2001-mangunrejo/sub/004-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
 https://sirekap-obj-formc.kpu.go.id/b4cf/pemilu/ppwp/33/07/07/20/01/3307072001004-20240215-032538--2f945162-0ed9-47bc-ba8f-cd11acb71a12.jpg
 
-https://sirekap-obj-formc.kpu.go.id/b4cf/pemilu/ppwp/33/07/07/20/01/3307072001004-20240221-153619--8da323dd-f789-48ba-8735-0187b1297be1.jpg
+https://sirekap-obj-formc.kpu.go.id/b4cf/pemilu/ppwp/33/07/07/20/01/3307072001004-20240315-140918--be5f72ad-940f-441f-b100-6b674633988f.jpg
 
-https://sirekap-obj-formc.kpu.go.id/b4cf/pemilu/ppwp/33/07/07/20/01/3307072001004-20240221-070858--8881ef8f-5e81-4bb3-b752-1ca04b97e958.jpg
+https://sirekap-obj-formc.kpu.go.id/b4cf/pemilu/ppwp/33/07/07/20/01/3307072001004-20240315-140917--2f6b47c8-7fb9-42ce-bf4e-49018dd5a509.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-24 22:31:28 |
+| Time Stamp | 2024-03-15 14:30:00 |
 
 
 ## DATA PEMILIH TETAP

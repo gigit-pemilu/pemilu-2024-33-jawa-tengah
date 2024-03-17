@@ -37,14 +37,14 @@ https://sirekap-obj-formc.kpu.go.id/75b9/pemilu/ppwp/33/02/07/20/10/330207201001
 
 https://sirekap-obj-formc.kpu.go.id/75b9/pemilu/ppwp/33/02/07/20/10/3302072010010-20240214-203943--23e59fab-d3ab-41a8-aa23-5c972c0e6ae9.jpg
 
-https://sirekap-obj-formc.kpu.go.id/75b9/pemilu/ppwp/33/02/07/20/10/3302072010010-20240214-213903--c65f0264-e1ee-4166-8b74-ec1c33ab9f21.jpg
+https://sirekap-obj-formc.kpu.go.id/75b9/pemilu/ppwp/33/02/07/20/10/3302072010010-20240316-222212--ae7b100c-c21a-4cd2-8094-3e507422516d.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-16 21:01:00 |
+| Time Stamp | 2024-03-16 22:30:00 |
 
 
 ## DATA PEMILIH TETAP
@@ -73,7 +73,7 @@ Jumlah pengguna hak pilih: **173**.
 
 ## JUMLAH SUARA SAH DAN TIDAK SAH
 
-JUMLAH SELURUH SUARA SAH: **172**.
+JUMLAH SELURUH SUARA SAH: **72**.
 
 JUMLAH SUARA TIDAK SAH: **1**.
 

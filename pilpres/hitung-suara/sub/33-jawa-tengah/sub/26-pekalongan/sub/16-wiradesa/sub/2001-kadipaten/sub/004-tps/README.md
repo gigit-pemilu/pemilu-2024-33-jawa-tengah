@@ -1,50 +1,19 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 120
-    bar [35, 120, 66]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 35
-    "2" : 120
-    "3" : 66
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 35    | [35][p-1]   | 15,84      |
-| 2   | PRABOWO GIBRAN | 120   | [120][p-2]  | 54,30      |
-| 3   | GANJAR MAHFUD  | 66    | [66][p-3]   | 29,86      |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/26-pekalongan/sub/16-wiradesa/sub/2001-kadipaten/sub/004-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/26-pekalongan/sub/16-wiradesa/sub/2001-kadipaten/sub/004-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/26-pekalongan/sub/16-wiradesa/sub/2001-kadipaten/sub/004-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/711e/pemilu/ppwp/33/26/16/20/01/3326162001004-20240215-195650--84a937ab-6fb3-4872-8b1e-63f48aa4da0c.jpg
+https://sirekap-obj-formc.kpu.go.id/711e/pemilu/ppwp/33/26/16/20/01/3326162001004-20240316-111154--a6ace01b-f3e6-415f-b356-213467aeadb2.jpg
 
-https://sirekap-obj-formc.kpu.go.id/711e/pemilu/ppwp/33/26/16/20/01/3326162001004-20240215-195144--51a33db8-340d-436b-973b-bb30bc50ad14.jpg
+https://sirekap-obj-formc.kpu.go.id/711e/pemilu/ppwp/33/26/16/20/01/3326162001004-20240316-113152--faac37fb-1f0b-43e4-95b1-7b5589c17056.jpg
 
-https://sirekap-obj-formc.kpu.go.id/711e/pemilu/ppwp/33/26/16/20/01/3326162001004-20240215-201138--6f6966dc-ee98-4395-aa53-48e49096844f.jpg
+https://sirekap-obj-formc.kpu.go.id/711e/pemilu/ppwp/33/26/16/20/01/3326162001004-20240316-172125--d1899ae8-b754-4ff8-b2dd-af540e0b370e.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-25 22:00:00 |
+| Time Stamp | 2024-03-16 17:30:00 |
 
 
 

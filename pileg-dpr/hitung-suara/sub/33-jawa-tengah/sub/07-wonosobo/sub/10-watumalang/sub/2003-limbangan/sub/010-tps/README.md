@@ -2,52 +2,52 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-232907--986cb20f-359e-4a88-876d-c1cad63a0152.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-141325--00bb942a-cbcd-46c0-bb4a-1451f4808196.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-233011--2e8ea9e5-a633-4b1c-ae27-e4227f27c0a6.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-141517--c413b700-d36f-42bc-869a-5e115c3fa475.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-233104--d6717456-c36c-4a7e-b05c-a38f85fb77fc.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-141635--310821dd-77e8-4b78-b95b-e0f6e356744b.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-233331--c898309c-f56b-4d13-958b-489866ac220b.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-141657--81d8c182-bc53-4c52-910f-fa85c4bd2b06.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-233455--5f8ada56-02eb-482f-871d-296c7ae8578f.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-141722--349de5a7-edd1-4d3e-a989-f863e71288a3.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-233526--41adf996-f5ef-4eb3-9a37-9e7f5a8f4d82.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-141751--21ebfe46-749e-4a63-9302-d0ee9edf727f.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-233628--ed4e9d26-6b8a-49bf-80db-f7a18b5b68fd.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-141823--43e7d267-fbf2-406e-8b10-b6f94cb843ee.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-233723--a1f3f456-f1da-4dad-b050-406956635ccc.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-141847--a21ec9d6-e753-438c-8347-f14a06cbaac3.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-233902--78697b0f-97b9-4146-9622-2192bb7a11c6.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-141947--7fe1b76a-035c-4b4b-bd96-2f03691bd0e2.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-234252--e9ec39bb-e362-47e0-94c9-69a7cc502120.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-142016--3b885f2f-2427-4e52-ba46-3a20491a92e6.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-234428--f5902473-7e5e-4479-9bc5-557e8965f530.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-142051--1ccf08e6-d0e0-4c68-b2e5-46361285ac4f.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-234717--098fb5e0-12e8-46a0-8fae-56366df9e49b.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-142134--aaf98e96-32c2-49bf-8ca0-67704bdebb7c.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-235132--cce3845d-7368-4cf9-987a-f933849d16bf.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-142222--734c0038-88e7-4e63-a4d8-b146f646bc8d.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-234928--6c408cdc-72fb-456e-9730-a52b045d8873.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-142252--3e4de4fd-66fe-4648-93f6-5111130f1fd3.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-235322--3d664e43-ef9a-4156-836e-8ebd0a60e3aa.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-142319--8af9808c-265f-43a5-8172-96d54acc55d8.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-235427--cf0cd9cd-621a-497f-bf6d-9cb164cd3797.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-142351--5a657893-2b3b-4113-b740-9a0d55b89a61.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240217-182619--ede9badf-bf00-499b-83c1-b81930aef32e.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-142426--2d3f5ac3-3143-47c1-b947-0083623c61a9.jpg
 
 https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-235705--18691967-8520-4784-b8fc-5f2807c340ed.jpg
 
 https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-235730--6691d6f0-36dd-4825-8d23-5f806fb747c2.jpg
 
-https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240214-235848--325d1931-55e5-4b76-951e-c7935f18b5e3.jpg
+https://sirekap-obj-formc.kpu.go.id/8db7/pemilu/pdpr/33/07/10/20/03/3307102003010-20240318-142505--5167aff5-b9f2-40b9-8b43-cf672c810fb4.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 18:32:47 |
+| Time Stamp | 2024-03-18 14:33:48 |
 | Kode Dapil | 3306                |
 
 

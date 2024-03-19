@@ -2,17 +2,17 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240215-003728--21879937-f82f-44e4-b0a9-851b2d52f08c.jpg
+https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240318-081601--aed25ab9-ad85-442a-8d5b-ca3b2240fe24.jpg
 
 https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240215-003759--1479abbe-f3c9-466e-af1c-b7b1bbc0deb7.jpg
 
-https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240215-003819--46bde794-0af4-447a-bbab-8486089dc7f5.jpg
+https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240318-082859--0241cbb5-1b1d-467b-922d-c1829579fa66.jpg
 
 https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240215-003849--dc7c3c66-3116-4708-a481-d58a26817eb8.jpg
 
 https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240215-003914--8e674aa6-19d6-4ea4-9895-4a9596ffb3f1.jpg
 
-https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240215-003937--9379d0ee-6d58-4bf8-9de6-27545b40adb9.jpg
+https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240318-082913--a1ffc113-d8b4-4c8c-93e0-d280ad2b06e6.jpg
 
 https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240215-003952--3f9d9242-3c2b-4e68-8ae8-2c542752f05b.jpg
 
@@ -24,7 +24,7 @@ https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/331415200300
 
 https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240215-004124--5e1bfabd-b00c-40c0-8a10-11c44165ba44.jpg
 
-https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240215-004202--1f7dc2bb-c736-4023-97ea-119656bc1226.jpg
+https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240318-082927--9d869afb-9395-455b-874f-d332aaa01ff2.jpg
 
 https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/3314152003001-20240215-004221--a785d1c7-ce9a-4180-be6b-f8ac21f9f878.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/61c1/pemilu/pdpr/33/14/15/20/03/331415200300
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-18 08:33:47 |
 | Kode Dapil | 3304                |
 
 

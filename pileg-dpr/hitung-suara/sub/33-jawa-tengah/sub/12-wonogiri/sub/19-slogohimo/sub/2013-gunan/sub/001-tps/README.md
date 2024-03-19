@@ -36,18 +36,18 @@ https://sirekap-obj-formc.kpu.go.id/da0e/pemilu/pdpr/33/12/19/20/13/331219201300
 
 https://sirekap-obj-formc.kpu.go.id/da0e/pemilu/pdpr/33/12/19/20/13/3312192013001-20240317-125241--0632d1d6-7f70-4c45-9d08-eaad3be24caa.jpg
 
-https://sirekap-obj-formc.kpu.go.id/da0e/pemilu/pdpr/33/12/19/20/13/3312192013001-20240317-125438--9901eb1a-7678-4058-957f-8ce45fc17407.jpg
+https://sirekap-obj-formc.kpu.go.id/da0e/pemilu/pdpr/33/12/19/20/13/3312192013001-20240318-195238--1ab422c5-2c28-4fc6-bc82-bee2e95b85ea.jpg
 
-https://sirekap-obj-formc.kpu.go.id/da0e/pemilu/pdpr/33/12/19/20/13/3312192013001-20240317-122328--f74a7c8e-8cb5-4e6f-b951-40a9e7e8b3c8.jpg
+https://sirekap-obj-formc.kpu.go.id/da0e/pemilu/pdpr/33/12/19/20/13/3312192013001-20240318-195448--518be01b-caa8-4544-a540-ca86ba394a0d.jpg
 
-https://sirekap-obj-formc.kpu.go.id/da0e/pemilu/pdpr/33/12/19/20/13/3312192013001-20240317-122426--a5f5c710-cc55-4bf1-984d-b76aba94588c.jpg
+https://sirekap-obj-formc.kpu.go.id/da0e/pemilu/pdpr/33/12/19/20/13/3312192013001-20240318-195534--3ffb47c1-28b5-4e70-8e18-fff69e5b524f.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-17 13:03:47 |
+| Time Stamp | 2024-03-18 20:03:47 |
 | Kode Dapil | 3304                |
 
 

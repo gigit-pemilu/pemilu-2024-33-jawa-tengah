@@ -2,7 +2,7 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240217-161226--e2af6bfc-246e-4f0b-a04a-5d038694cd62.jpg
+https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240318-140530--0d3a7555-6350-4288-84bf-708c34852ff3.jpg
 
 https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240216-081127--dc110179-b7bb-42a7-897b-1b8f15ca9428.jpg
 
@@ -22,7 +22,7 @@ https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/330710200300
 
 https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240216-083820--0cd25479-f168-43f8-96ac-6641205cc1c9.jpg
 
-https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240217-161427--db3cf1e3-fd8d-41fb-b485-8f80524703c1.jpg
+https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240318-140843--4ed13789-ff3d-4fc5-afa7-3ca94244eb8c.jpg
 
 https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240216-084115--32d8afdb-12ac-4c2d-945b-d0e864294c16.jpg
 
@@ -38,16 +38,16 @@ https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/330710200300
 
 https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240216-085145--6ca848d6-24ee-4cb5-9ef3-0d575e5815bf.jpg
 
-https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240217-170156--957b0423-c915-42c5-b4d4-60e1aca2d61c.jpg
+https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240318-140928--4d11ae52-e71e-4cea-bbc5-8e61d9cad900.jpg
 
-https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240217-161704--a0380b3f-be30-4138-8f28-5def2e378917.jpg
+https://sirekap-obj-formc.kpu.go.id/2f74/pemilu/pdpr/33/07/10/20/03/3307102003007-20240318-140958--08588dd9-4a07-468e-bac5-3ea55f105063.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 17:02:51 |
+| Time Stamp | 2024-03-18 14:33:48 |
 | Kode Dapil | 3306                |
 
 

@@ -2,7 +2,7 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/2e39/pemilu/pdpr/33/14/11/20/04/3314112004021-20240217-002220--877e210d-7f55-4f22-8407-16e76d6e2a0a.jpg
+https://sirekap-obj-formc.kpu.go.id/2e39/pemilu/pdpr/33/14/11/20/04/3314112004021-20240318-125554--7fc9177a-68bc-48e0-a126-7f7ec46b1c26.jpg
 
 https://sirekap-obj-formc.kpu.go.id/2e39/pemilu/pdpr/33/14/11/20/04/3314112004021-20240214-205407--cc8d380b-f56f-47eb-aca8-558c5c5e47c1.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/2e39/pemilu/pdpr/33/14/11/20/04/331411200402
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-18 13:03:46 |
 | Kode Dapil | 3304                |
 
 

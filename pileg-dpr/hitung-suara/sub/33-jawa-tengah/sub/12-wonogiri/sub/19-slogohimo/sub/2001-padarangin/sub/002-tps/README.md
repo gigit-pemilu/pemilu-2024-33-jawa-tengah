@@ -34,9 +34,9 @@ https://sirekap-obj-formc.kpu.go.id/bb49/pemilu/pdpr/33/12/19/20/01/331219200100
 
 https://sirekap-obj-formc.kpu.go.id/bb49/pemilu/pdpr/33/12/19/20/01/3312192001002-20240317-231426--f14af35b-3b70-4065-af4b-087826d74210.jpg
 
-https://sirekap-obj-formc.kpu.go.id/bb49/pemilu/pdpr/33/12/19/20/01/3312192001002-20240317-235232--996ac2ac-70e2-4c74-821a-fd05e7c54b87.jpg
+https://sirekap-obj-formc.kpu.go.id/bb49/pemilu/pdpr/33/12/19/20/01/3312192001002-20240318-125352--bba3fc27-c10b-40ee-b661-8b9879b08b16.jpg
 
-https://sirekap-obj-formc.kpu.go.id/bb49/pemilu/pdpr/33/12/19/20/01/3312192001002-20240317-235931--e6c62fe8-6f23-413c-95f4-eaed58360752.jpg
+https://sirekap-obj-formc.kpu.go.id/bb49/pemilu/pdpr/33/12/19/20/01/3312192001002-20240318-214038--d5202f9f-9d1e-47a7-9a41-7fed9a1fc6b3.jpg
 
 https://sirekap-obj-formc.kpu.go.id/bb49/pemilu/pdpr/33/12/19/20/01/3312192001002-20240317-235522--362fa11c-5028-487c-b842-bb175b348205.jpg
 
@@ -47,7 +47,7 @@ https://sirekap-obj-formc.kpu.go.id/bb49/pemilu/pdpr/33/12/19/20/01/331219200100
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-18 00:03:47 |
+| Time Stamp | 2024-03-18 22:03:47 |
 | Kode Dapil | 3304                |
 
 

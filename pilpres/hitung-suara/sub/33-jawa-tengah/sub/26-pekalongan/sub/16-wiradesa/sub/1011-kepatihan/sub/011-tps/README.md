@@ -1,48 +1,51 @@
 # Hasil
 
-## Grafik
-
-```mermaid
-xychart-beta
-    title "Perolehan Suara TPS"
-    x-axis [01, 02, 03]
-    y-axis "Suara" 0 --> 63
-    bar [6, 63, 63]
-```
-
-```mermaid
-%%{init: {"pie": {"textPosition": 0.5}, "themeVariables": {"pieOuterStrokeWidth": "5px"}} }%%
-pie showData
-    "1" : 6
-    "2" : 63
-    "3" : 63
-```
-
-## Tabel
-
-| No. | Nama Paslon    | Suara | Suara (raw) | Persentase |
-|:--- |:-------------- | -----:| -----------:| ----------:|
-| 1   | ANIES MUHAIMIN | 6     | [6][p-1]    | 4,55       |
-| 2   | PRABOWO GIBRAN | 63    | [63][p-2]   | 47,73      |
-| 3   | GANJAR MAHFUD  | 63    | [63][p-3]   | 47,73      |
-
-
-[p-1]: https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/26-pekalongan/sub/16-wiradesa/sub/1011-kepatihan/sub/011-tps/sub/paslon-1.txt
-[p-2]: https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/26-pekalongan/sub/16-wiradesa/sub/1011-kepatihan/sub/011-tps/sub/paslon-2.txt
-[p-3]: https://github.com/gigit-pemilu/pemilu-2024-33-jawa-tengah/blob/main/pilpres/hitung-suara/sub/33-jawa-tengah/sub/26-pekalongan/sub/16-wiradesa/sub/1011-kepatihan/sub/011-tps/sub/paslon-3.txt
-
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/aa1d/pemilu/ppwp/33/26/16/10/11/3326161011011-20240214-202634--8f34d8ee-aba6-4eeb-879e-dfb0fc37acce.jpg
+https://sirekap-obj-formc.kpu.go.id/aa1d/pemilu/ppwp/33/26/16/10/11/3326161011011-20240318-183927--7f7e87db-0cd4-4236-ae0b-c4096608a3dd.jpg
 
-https://sirekap-obj-formc.kpu.go.id/aa1d/pemilu/ppwp/33/26/16/10/11/3326161011011-20240214-202710--7b3d3a25-d8aa-4f34-853e-3e66e4ab88c3.jpg
+https://sirekap-obj-formc.kpu.go.id/aa1d/pemilu/ppwp/33/26/16/10/11/3326161011011-20240318-184421--cd9ce6a3-8778-4b96-867f-c95110834e3f.jpg
+
+https://sirekap-obj-formc.kpu.go.id/aa1d/pemilu/ppwp/33/26/16/10/11/3326161011011-20240318-184721--5e4a292f-c80e-4d0d-a06e-83424d4487d0.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-19 06:16:00 |
+| Time Stamp | 2024-03-18 19:00:00 |
 
+
+## DATA PEMILIH TETAP
+
+Jumlah pemilih dalam DPT: **170**.
+ * L: **79**.
+ * P: **91**.
+
+## DATA PENGGUNA HAK PILIH
+
+Jumlah pengguna hak pilih dalam DPT: **130**.
+ * L: **53**.
+ * P: **77**.
+
+Jumlah pengguna hak pilih dalam DPTb: **2**.
+ * L: **2**.
+ * P: **0**.
+
+Jumlah pengguna hak pilih dalam DPK: **2**.
+ * L: **1**.
+ * P: **1**.
+
+Jumlah pengguna hak pilih: **134**.
+ * L: **56**.
+ * P: **78**.
+
+## JUMLAH SUARA SAH DAN TIDAK SAH
+
+JUMLAH SELURUH SUARA SAH: **132**.
+
+JUMLAH SUARA TIDAK SAH: **2**.
+
+JUMLAH SELURUH SUARA SAH DAN SUARA TIDAK SAH: **134**.
 
 

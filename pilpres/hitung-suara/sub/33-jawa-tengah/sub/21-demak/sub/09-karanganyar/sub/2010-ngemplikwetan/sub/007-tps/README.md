@@ -9,7 +9,7 @@ https://sirekap-obj-formc.kpu.go.id/5702/pemilu/ppwp/33/21/09/20/10/332109201000
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-03-19 02:00:00 |
+| Time Stamp | 2024-03-20 02:00:00 |
 
 
 

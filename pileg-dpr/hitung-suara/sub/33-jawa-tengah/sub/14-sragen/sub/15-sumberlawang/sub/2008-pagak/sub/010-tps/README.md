@@ -22,7 +22,7 @@ https://sirekap-obj-formc.kpu.go.id/ebb2/pemilu/pdpr/33/14/15/20/08/331415200801
 
 https://sirekap-obj-formc.kpu.go.id/ebb2/pemilu/pdpr/33/14/15/20/08/3314152008010-20240215-013303--739c64f5-51ab-4c0c-a420-e454cd92f099.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ebb2/pemilu/pdpr/33/14/15/20/08/3314152008010-20240215-013329--b3872eaa-59b0-4331-a9ff-64e6978dbacd.jpg
+https://sirekap-obj-formc.kpu.go.id/ebb2/pemilu/pdpr/33/14/15/20/08/3314152008010-20240319-211146--b6195201-40bb-457f-9e55-ac61247da84f.jpg
 
 https://sirekap-obj-formc.kpu.go.id/ebb2/pemilu/pdpr/33/14/15/20/08/3314152008010-20240215-013354--7515e5f2-2008-4b01-a6b2-a186a386289b.jpg
 
@@ -40,14 +40,14 @@ https://sirekap-obj-formc.kpu.go.id/ebb2/pemilu/pdpr/33/14/15/20/08/331415200801
 
 https://sirekap-obj-formc.kpu.go.id/ebb2/pemilu/pdpr/33/14/15/20/08/3314152008010-20240215-013732--a62b8705-7415-495c-a670-ae5d02712c4d.jpg
 
-https://sirekap-obj-formc.kpu.go.id/ebb2/pemilu/pdpr/33/14/15/20/08/3314152008010-20240215-013800--3a894623-431f-4739-ab5f-023b773a7b84.jpg
+https://sirekap-obj-formc.kpu.go.id/ebb2/pemilu/pdpr/33/14/15/20/08/3314152008010-20240319-211156--524f5a46-eece-4f5d-ad51-05edc5792f76.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-19 21:33:47 |
 | Kode Dapil | 3304                |
 
 

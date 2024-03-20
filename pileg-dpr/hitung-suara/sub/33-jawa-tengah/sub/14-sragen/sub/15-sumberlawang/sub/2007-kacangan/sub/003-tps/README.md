@@ -2,9 +2,9 @@
 
 ## Foto C Plano
 
-https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240215-032145--0703ca38-dc49-4126-84a5-0d593c7f05ef.jpg
+https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240319-203714--5768865c-a73a-4528-9bfd-68388da4bbd7.jpg
 
-https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240215-032018--20b40da7-978e-416d-b9b6-df78727e7629.jpg
+https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240319-203726--bbf51313-8033-444b-9b5c-b6a2c3304b64.jpg
 
 https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240215-032303--848a1ee1-6ce5-4a3f-98a8-1c5fd94723b4.jpg
 
@@ -32,22 +32,22 @@ https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/331415200700
 
 https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240215-033642--0345289b-ffce-449d-8ba7-fde293d4847d.jpg
 
-https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240215-033921--c56aac34-b218-48c4-bde6-c0c7182c7a30.jpg
+https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240319-203822--62bbedd8-764a-4da9-b949-1e240f11ba85.jpg
 
 https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240215-034019--3469035f-e9d4-4fc5-9e40-c83734d1019f.jpg
 
 https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240215-034114--c22a7d44-b738-4d46-b42a-d6f9fe815202.jpg
 
-https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240215-034207--caf48d44-1fb9-403b-a0c3-a2252f563bbf.jpg
+https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240319-203835--d3e50caf-c7cc-41d3-a05b-3f6b20d2109f.jpg
 
-https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240215-034314--87874053-1331-4e10-9415-d6adb67678ff.jpg
+https://sirekap-obj-formc.kpu.go.id/a9fa/pemilu/pdpr/33/14/15/20/07/3314152007003-20240319-203853--9f6925da-aa0c-417b-a420-6f947c0637c3.jpg
 
 
 ## Metadata
 
 | Key        | Value               |
 | ---------- | ------------------- |
-| Time Stamp | 2024-02-17 13:05:41 |
+| Time Stamp | 2024-03-19 21:03:48 |
 | Kode Dapil | 3304                |
 
 
